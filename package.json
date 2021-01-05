@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/vergilius/nudge/issues"
   },
-  "homepage": "https://github.com/vergilius/nudge#readme",
-  "dependencies": {
-    "http-server": "^0.12.3"
-  }
+  "homepage": "https://github.com/vergilius/nudge#readme"
 }
