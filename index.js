@@ -19,9 +19,9 @@ const initialize = async () => {
 
 
   // normally we should only run in when permission is 'granted'
-  registration.showNotification('test', {
-    body: 'here is just a notification'
-  });
+  // registration.showNotification('test', {
+  //   body: 'here is just a notification'
+  // });
 
   const pushSubscription = await registration.pushManager.subscribe({
     userVisibleOnly: true,
